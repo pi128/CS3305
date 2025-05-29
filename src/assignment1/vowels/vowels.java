@@ -5,7 +5,7 @@
 // Assignment: #1
 // IDE: Visual Studio Code
 
-package vowel;
+package vowels;
 
 import java.util.Scanner;
 
