@@ -6,7 +6,6 @@
 // IDE: Visual Studio Code
 
 
-
 import java.util.Scanner;
 
 public class TestRectangle {
