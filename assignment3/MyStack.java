@@ -5,7 +5,7 @@
 // Assignment: #3
 // IDE Name: IntelliJ IDEA
 
-
+package assignment3;
 
 public class MyStack<E> {
 

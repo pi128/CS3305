@@ -5,7 +5,7 @@
 // Assignment: #3
 // IDE Name: IntelliJ IDEA
 
-
+package assignment3;
 
 import java.util.Scanner; // Import Scanner for user input
 
