@@ -1,0 +1,15 @@
+/Users/james/Documents/CS3305/assignment12/RectangleApp/obj/Debug/net9.0/RectangleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/james/Documents/CS3305/assignment12/RectangleApp/obj/Debug/net9.0/RectangleApp.AssemblyInfoInputs.cache
+/Users/james/Documents/CS3305/assignment12/RectangleApp/obj/Debug/net9.0/RectangleApp.AssemblyInfo.cs
+/Users/james/Documents/CS3305/assignment12/RectangleApp/obj/Debug/net9.0/RectangleApp.csproj.CoreCompileInputs.cache
+/Users/james/Documents/CS3305/assignment12/RectangleApp/obj/Debug/net9.0/RectangleApp.sourcelink.json
+/Users/james/Documents/CS3305/assignment12/RectangleApp/bin/Debug/net9.0/RectangleApp
+/Users/james/Documents/CS3305/assignment12/RectangleApp/bin/Debug/net9.0/RectangleApp.deps.json
+/Users/james/Documents/CS3305/assignment12/RectangleApp/bin/Debug/net9.0/RectangleApp.runtimeconfig.json
+/Users/james/Documents/CS3305/assignment12/RectangleApp/bin/Debug/net9.0/RectangleApp.dll
+/Users/james/Documents/CS3305/assignment12/RectangleApp/bin/Debug/net9.0/RectangleApp.pdb
+/Users/james/Documents/CS3305/assignment12/RectangleApp/obj/Debug/net9.0/RectangleApp.dll
+/Users/james/Documents/CS3305/assignment12/RectangleApp/obj/Debug/net9.0/refint/RectangleApp.dll
+/Users/james/Documents/CS3305/assignment12/RectangleApp/obj/Debug/net9.0/RectangleApp.pdb
+/Users/james/Documents/CS3305/assignment12/RectangleApp/obj/Debug/net9.0/RectangleApp.genruntimeconfig.cache
+/Users/james/Documents/CS3305/assignment12/RectangleApp/obj/Debug/net9.0/ref/RectangleApp.dll

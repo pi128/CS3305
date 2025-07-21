@@ -1,0 +1,15 @@
+/Users/james/Documents/CS3305/assignment12/vowels/obj/Debug/net9.0/vowels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/james/Documents/CS3305/assignment12/vowels/obj/Debug/net9.0/vowels.AssemblyInfoInputs.cache
+/Users/james/Documents/CS3305/assignment12/vowels/obj/Debug/net9.0/vowels.AssemblyInfo.cs
+/Users/james/Documents/CS3305/assignment12/vowels/obj/Debug/net9.0/vowels.csproj.CoreCompileInputs.cache
+/Users/james/Documents/CS3305/assignment12/vowels/obj/Debug/net9.0/vowels.sourcelink.json
+/Users/james/Documents/CS3305/assignment12/vowels/bin/Debug/net9.0/vowels
+/Users/james/Documents/CS3305/assignment12/vowels/bin/Debug/net9.0/vowels.deps.json
+/Users/james/Documents/CS3305/assignment12/vowels/bin/Debug/net9.0/vowels.runtimeconfig.json
+/Users/james/Documents/CS3305/assignment12/vowels/bin/Debug/net9.0/vowels.dll
+/Users/james/Documents/CS3305/assignment12/vowels/bin/Debug/net9.0/vowels.pdb
+/Users/james/Documents/CS3305/assignment12/vowels/obj/Debug/net9.0/vowels.dll
+/Users/james/Documents/CS3305/assignment12/vowels/obj/Debug/net9.0/refint/vowels.dll
+/Users/james/Documents/CS3305/assignment12/vowels/obj/Debug/net9.0/vowels.pdb
+/Users/james/Documents/CS3305/assignment12/vowels/obj/Debug/net9.0/vowels.genruntimeconfig.cache
+/Users/james/Documents/CS3305/assignment12/vowels/obj/Debug/net9.0/ref/vowels.dll
